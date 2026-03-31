@@ -66,7 +66,8 @@ This project is part of the CodSoft internship tasks. The goal was to design a p
 * Improve accessibility (ARIA, better contrast)
 
 ---
-
+## view live site at :
+https://prerankumari4-max.github.io/codsoft-emailtemplate/
 ## 👩‍💻 Author
 
 **Prerna**
